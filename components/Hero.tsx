@@ -88,7 +88,7 @@ const Hero = () => {
           </button>
           <p className="bold-40 w-full text-center space-y-3">
             Already have an account?{" "}
-            <Link href="/login" className="text-purple-600 hover:underline">
+            <Link href="http://localhost:3000/" className="text-purple-600 hover:underline">
               Login.
             </Link>
           </p>
